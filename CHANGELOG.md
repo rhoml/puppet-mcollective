@@ -17,6 +17,8 @@ Styles:
 
 Improvements
 - Datacat version bump from 0.5.x (ed3d6acd0b02d8d87d9bbc72c1243143c1cdf572)
+- Add travis badge to README.md (3e7802683e5f1d42a5a7cbec8e5881ee0ab368be)
+- Updates link to CoC (6015dd4f69c4ed8c08e0539f777a185939669a62)
 
 2015-03-31 Release 2.1.1
 ========================
